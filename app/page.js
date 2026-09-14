@@ -98,7 +98,7 @@ export default function Home() {
           <h1>RTHT Recycling Pte Ltd</h1>
           <p className="hero-tagline">Turning trash into treasure.</p>
           <p className="hero-phone">
-            90039575 <span>/</span> 83937444
+            90039575 <span>/</span> 83217212
           </p>
           <div className="hero-actions">
             <a className="button button-light" href="#footer">
@@ -251,14 +251,15 @@ export default function Home() {
           <div className="contact-copy">
             <p className="section-kicker">Get in touch</p>
             <address>
-              #01-56 The Index
+              <b>K. Ramkumar</b>  <br/>
+                 Director  
               <br />
-              Tuas South Ave 3<br />
-              Singapore 637369
+              11, Tuas South Link 1, #01-45,<br />
+              Singapore 636901
             </address>
             <a href="mailto:rthtrecycling@gmail.com">rthtrecycling@gmail.com</a>
             <a href="tel:+6590039575">
-              90039575 <span>/</span> 83937444
+              90039575 <span>/</span> 83217212
             </a>
             <p className="hours">Open daily · 8:30 AM to 9:00 PM</p>
           </div>
