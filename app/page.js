@@ -251,9 +251,6 @@ export default function Home() {
           <div className="contact-copy">
             <p className="section-kicker">Get in touch</p>
             <address>
-              <b>K. Ramkumar</b>  <br/>
-                 Director  
-              <br />
               11, Tuas South Link 1, #01-45,<br />
               Singapore 636901
             </address>
