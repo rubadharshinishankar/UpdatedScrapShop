@@ -240,7 +240,7 @@ export default function Home() {
             <em>less</em> waste.
           </h2>
         </div>
-        <div className="footer-grid">
+       <div className="footer-grid">
           <div className="map-frame">
             <iframe
               title="RTHT Recycling location"
@@ -251,15 +251,22 @@ export default function Home() {
           <div className="contact-copy">
             <p className="section-kicker">Get in touch</p>
             <address>
+              <strong>Main Address</strong><br />
+              #01 - 56 The Index, Tuas South Ave 3,<br />
+              Singapore 637369
+            </address>
+            <address>
+              <strong>Branch Address</strong><br />
               11, Tuas South Link 1, #01-45,<br />
               Singapore 636901
             </address>
             <a href="mailto:rthtrecycling@gmail.com">rthtrecycling@gmail.com</a>
             <a href="tel:+6590039575">
-              90039575 <span>/</span> 83217212
+              90039575 <span>/</span> 83937444
             </a>
             <p className="hours">Open daily · 8:30 AM to 9:00 PM</p>
           </div>
+        </div>
         </div>
         <div className="footer-bottom">
           <p>© {new Date().getFullYear()} RTHT Recycling Pte Ltd</p>
