@@ -257,7 +257,7 @@ export default function Home() {
             </address>
             <address>
               <strong>Branch Address</strong><br />
-              11, Tuas South Link 1, #01-45,<br />
+              11, Tuas South Link 1, #01-45, <br />
               Singapore 636901
             </address>
             <a href="mailto:rthtrecycling@gmail.com">rthtrecycling@gmail.com</a>
