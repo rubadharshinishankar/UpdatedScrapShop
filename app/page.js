@@ -267,7 +267,6 @@ export default function Home() {
             <p className="hours">Open daily · 8:30 AM to 9:00 PM</p>
           </div>
         </div>
-        </div>
         <div className="footer-bottom">
           <p>© {new Date().getFullYear()} RTHT Recycling Pte Ltd</p>
           <div className="social-links">
